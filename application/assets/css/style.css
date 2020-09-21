@@ -1,0 +1,14 @@
+
+body{
+background-color:black; 
+background-image: url('<?php echo base_url('images/skool.jpg'); ?>');
+}
+
+
+
+
+
+
+
+
+   
